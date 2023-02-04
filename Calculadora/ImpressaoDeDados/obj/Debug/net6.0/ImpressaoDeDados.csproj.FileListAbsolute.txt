@@ -1,0 +1,15 @@
+C:\Users\reilu\Desktop\ProgramasPedroHenrique\Repositorios\CSharp-ConsoleApplications\Calculadora\ImpressaoDeDados\bin\Debug\net6.0\ImpressaoDeDados.exe
+C:\Users\reilu\Desktop\ProgramasPedroHenrique\Repositorios\CSharp-ConsoleApplications\Calculadora\ImpressaoDeDados\bin\Debug\net6.0\ImpressaoDeDados.deps.json
+C:\Users\reilu\Desktop\ProgramasPedroHenrique\Repositorios\CSharp-ConsoleApplications\Calculadora\ImpressaoDeDados\bin\Debug\net6.0\ImpressaoDeDados.runtimeconfig.json
+C:\Users\reilu\Desktop\ProgramasPedroHenrique\Repositorios\CSharp-ConsoleApplications\Calculadora\ImpressaoDeDados\bin\Debug\net6.0\ImpressaoDeDados.dll
+C:\Users\reilu\Desktop\ProgramasPedroHenrique\Repositorios\CSharp-ConsoleApplications\Calculadora\ImpressaoDeDados\bin\Debug\net6.0\ImpressaoDeDados.pdb
+C:\Users\reilu\Desktop\ProgramasPedroHenrique\Repositorios\CSharp-ConsoleApplications\Calculadora\ImpressaoDeDados\obj\Debug\net6.0\ImpressaoDeDados.csproj.AssemblyReference.cache
+C:\Users\reilu\Desktop\ProgramasPedroHenrique\Repositorios\CSharp-ConsoleApplications\Calculadora\ImpressaoDeDados\obj\Debug\net6.0\ImpressaoDeDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reilu\Desktop\ProgramasPedroHenrique\Repositorios\CSharp-ConsoleApplications\Calculadora\ImpressaoDeDados\obj\Debug\net6.0\ImpressaoDeDados.AssemblyInfoInputs.cache
+C:\Users\reilu\Desktop\ProgramasPedroHenrique\Repositorios\CSharp-ConsoleApplications\Calculadora\ImpressaoDeDados\obj\Debug\net6.0\ImpressaoDeDados.AssemblyInfo.cs
+C:\Users\reilu\Desktop\ProgramasPedroHenrique\Repositorios\CSharp-ConsoleApplications\Calculadora\ImpressaoDeDados\obj\Debug\net6.0\ImpressaoDeDados.csproj.CoreCompileInputs.cache
+C:\Users\reilu\Desktop\ProgramasPedroHenrique\Repositorios\CSharp-ConsoleApplications\Calculadora\ImpressaoDeDados\obj\Debug\net6.0\ImpressaoDeDados.dll
+C:\Users\reilu\Desktop\ProgramasPedroHenrique\Repositorios\CSharp-ConsoleApplications\Calculadora\ImpressaoDeDados\obj\Debug\net6.0\refint\ImpressaoDeDados.dll
+C:\Users\reilu\Desktop\ProgramasPedroHenrique\Repositorios\CSharp-ConsoleApplications\Calculadora\ImpressaoDeDados\obj\Debug\net6.0\ImpressaoDeDados.pdb
+C:\Users\reilu\Desktop\ProgramasPedroHenrique\Repositorios\CSharp-ConsoleApplications\Calculadora\ImpressaoDeDados\obj\Debug\net6.0\ImpressaoDeDados.genruntimeconfig.cache
+C:\Users\reilu\Desktop\ProgramasPedroHenrique\Repositorios\CSharp-ConsoleApplications\Calculadora\ImpressaoDeDados\obj\Debug\net6.0\ref\ImpressaoDeDados.dll
