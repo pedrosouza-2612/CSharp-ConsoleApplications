@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculadora", "Calculadora\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImpressaoDeDados", "ImpressaoDeDados\ImpressaoDeDados.csproj", "{4593B439-265A-4D9F-B290-5331BB416B58}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HerancaDeClasses", "HerancaDeClasses\HerancaDeClasses.csproj", "{ACC4A8C7-59F5-4FE9-A1E9-CD22C48C03AD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{4593B439-265A-4D9F-B290-5331BB416B58}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4593B439-265A-4D9F-B290-5331BB416B58}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4593B439-265A-4D9F-B290-5331BB416B58}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ACC4A8C7-59F5-4FE9-A1E9-CD22C48C03AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACC4A8C7-59F5-4FE9-A1E9-CD22C48C03AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACC4A8C7-59F5-4FE9-A1E9-CD22C48C03AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACC4A8C7-59F5-4FE9-A1E9-CD22C48C03AD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
